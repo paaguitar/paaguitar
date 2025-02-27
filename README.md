@@ -4,6 +4,7 @@
 
 - <b>Bridging Tourism gab in rural Ghana </b>
   - [Bridging Tourism gab in rural Ghana](https://www.canva.com/design/DAGcH1LxdEY/R4PM8U_OFUtpVrOWYVcmxA/edit)
+  - [My Portfolio](https://github.com/paaguitar/myportfolio/edit/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
